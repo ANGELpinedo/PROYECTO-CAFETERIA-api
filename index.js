@@ -16,7 +16,7 @@ app.get("/api/saludo", (req, res) => {
 
 //Ejercicio 01
 app.get("/api/yo", (req, res) => {
-  res.json({ Nombre: "Susan Ñauinripa", Carrera: "Ingenieria en software" });
+  res.json({ Nombre: "Angel", Carrera: "Ing. en software" });
 });
 
 //Ejercicio 02

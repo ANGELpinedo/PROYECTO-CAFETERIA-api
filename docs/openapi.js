@@ -34,8 +34,8 @@ module.exports = {
                         content: {
                             "application/json": {
                                 example: {
-                                    Nombre: "Susan Ñauinripa",
-                                    Carrera: "Ingenieria en software"
+                                    Nombre: "Agngel",
+                                    Carrera: "Ing. en software"
                                 }
                             }
                         }
